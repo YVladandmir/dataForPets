@@ -16,7 +16,8 @@
         "location": "Россия",
         "sex": true,
         "type": "Британский вислоухий",
-        "weight": "2"
+        "weight": "2",
+        "adopt": true
     },
     "2": {
         "name": "Loki",
@@ -35,7 +36,8 @@
         "location": "Германия",
         "sex": true,
         "type": "Швейцарская овчарка",
-        "weight": "7"
+        "weight": "7",
+        "adopt": false
     },
     "3": {
         "name": "Jack",
@@ -52,7 +54,8 @@
         "location": "Англия",
         "sex": false,
         "type": "Попугай",
-        "weight": "1"
+        "weight": "1",
+        "adopt": false
     },
     "4": {
         "name": "Rex",
@@ -71,7 +74,8 @@
         "location": "Россия",
         "sex": true,
         "type": "Кроль",
-        "weight": "3"
+        "weight": "3",
+        "adopt": false
     },
     "5": {
         "name": "Arkadiy",
@@ -86,7 +90,9 @@
         "location": "Британия",
         "sex": false,
         "type": "Мыша",
-        "weight": "7"
+        "weight": "7",
+        "adopt": true,
+        "price": 5000
     },
     "6": {
         "name": "Boris",
@@ -105,7 +111,9 @@
         "location": "США",
         "sex": true,
         "type": "Хомяк",
-        "weight": "1"
+        "weight": "1",
+        "adopt": true,
+        "price": 2000
     },
     "7": {
         "name": "Smudge",
@@ -123,7 +131,9 @@
         "location": "Россия",
         "sex": true,
         "type": "Британский вислоухий",
-        "weight": "2"
+        "weight": "2",
+        "adopt": true,
+        "price": 15000
     },
     "8": {
         "name": "Shlepa",
@@ -139,7 +149,8 @@
         "location": "Германия",
         "sex": true,
         "type": "Швейцарская овчарка",
-        "weight": "7"
+        "weight": "7",
+        "adopt": false,
     },
     "9": {
         "name": "Boba",
@@ -161,7 +172,8 @@
         "location": "Англия",
         "sex": false,
         "type": "Попугай",
-        "weight": "1"
+        "weight": "1",
+        "adopt": true,
     },
     "10": {
         "name": "Biba",
@@ -176,7 +188,8 @@
         "location": "Россия",
         "sex": true,
         "type": "Кроль",
-        "weight": "3"
+        "weight": "3",
+        "adopt": true,
     },
     "11": {
         "name": "Lupa",
@@ -195,7 +208,9 @@
         "location": "Британия",
         "sex": false,
         "type": "Мыша",
-        "weight": "7"
+        "weight": "7",
+        "adopt": false,
+        
     },
     "12": {
         "name": "Pupa",
@@ -212,6 +227,8 @@
         "location": "США",
         "sex": true,
         "type": "Хомяк",
-        "weight": "1"
+        "weight": "1",
+        "adopt": false,
+        
     }
 }
