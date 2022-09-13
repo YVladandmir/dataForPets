@@ -4,9 +4,9 @@
 		"age": "2022-03-01",
 		"about": "Любит спать, кушать и вставать в всратые позы",
 		"groupID": 1,
-		"previewImg": "https://loremflickr.com/320/240",
+		"previewImg": "https://loremflickr.com/320/180",
 		"images": [
-			"https://loremflickr.com/320/240",
+			"https://loremflickr.com/420/340",
 			"https://loremflickr.com/320/240",
 			"https://loremflickr.com/320/240",
 			"https://loremflickr.com/320/240",
@@ -24,7 +24,7 @@
 		"age": "2021-07-17",
 		"about": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Reprehenderit, voluptate provident ut nostrum quis modi.",
 		"groupID": 2,
-		"previewImg": "https://loremflickr.com/320/240",
+		"previewImg": "https://loremflickr.com/320/250",
 		"images": [
 			"https://loremflickr.com/320/240",
 			"https://loremflickr.com/320/240",
@@ -44,7 +44,7 @@
 		"age": "2021-07-17",
 		"about": "Lorem ipsum dolor sit amet consectetur adipisicing elit. At vero illo consectetur non laboriosam, natus alias voluptas saepe illum, ipsam repellendus error voluptates amet magnam!",
 		"groupID": 3,
-		"previewImg": "https://loremflickr.com/320/240",
+		"previewImg": "https://loremflickr.com/520/440",
 		"images": [
 			"https://loremflickr.com/320/240",
 			"https://loremflickr.com/320/240",
@@ -99,7 +99,7 @@
 		"age": "2021-07-17",
 		"about": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Perferendis, id?",
 		"groupID": 6,
-		"previewImg": "https://loremflickr.com/320/240",
+		"previewImg": "https://loremflickr.com/540/280",
 		"images": [
 			"https://loremflickr.com/320/240",
 			"https://loremflickr.com/320/240",
@@ -140,7 +140,7 @@
 		"age": "2021-07-17",
 		"about": " Lorem ipsum dolor sit amet consectetur adipisicing elit. Nam nulla quisquam minima suscipit quis, quod numquam iusto enim optio distinctio.",
 		"groupID": 2,
-		"previewImg": "https://loremflickr.com/320/240",
+		"previewImg": "https://loremflickr.com/700/480",
 		"images": [
 			"https://loremflickr.com/320/240",
 			"https://loremflickr.com/320/240"
@@ -180,7 +180,7 @@
 		"age": "2020-03-01",
 		"about": " Lorem ipsum dolor sit amet consectetur adipisicing elit. Nam nulla quisquam minima suscipit quis, quod numquam iusto enim optio distinctio.",
 		"groupID": 4,
-		"previewImg": "https://loremflickr.com/320/240",
+		"previewImg": "https://loremflickr.com/470/300",
 		"images": [
 			"https://loremflickr.com/320/240"
 		],
@@ -196,7 +196,7 @@
 		"age": "2021-07-17",
 		"about": " Lorem ipsum dolor sit amet consectetur adipisicing elit. Nam nulla quisquam minima suscipit quis, quod numquam iusto enim optio distinctio.",
 		"groupID": 5,
-		"previewImg": "https://loremflickr.com/320/240",
+		"previewImg": "https://loremflickr.com/360/200",
 		"images": [
 			"https://loremflickr.com/320/240",
 			"https://loremflickr.com/320/240",
